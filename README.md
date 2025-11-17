@@ -1,2 +1,2 @@
-# Responsive Dashboard using HTML and CSS
+# Responsive Dashboard using HTML, CSS and Javascript
 
